@@ -10,10 +10,10 @@ INSTALL DULU
 - pip install colorama
 - pip install pycryptodome
 - pkg install git
-- git clone https://github.com/Rockfort73/FBtools2
+- git clone https://github.com/Rockfort73/fbtools
 
 #  Jalankan Di Windows PowerShell
-- cd FBtools2
+- cd fbtools
 - python fbtools2.py
 
 # Bahan yang perlu di Download 
@@ -25,8 +25,8 @@ INSTALL DULU
 - LINK download : https://tutwuri.id/D1NmnFH
 
 # Solusi ingin praktis input data login
-- git clone https://github.com/Rockfort73/FBtools2
+- git clone https://github.com/Rockfort73/fbtools
 
 #  Jalankan Di Windows PowerShell
-- cd FBtools2
+- cd fbtools
 - python inputdatalogin.py
